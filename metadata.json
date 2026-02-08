@@ -1,0 +1,7 @@
+{
+  "name": "Dollar Exchange Pro",
+  "description": "A professional currency exchange platform for buying and selling USD via PayPal, Payoneer, and other services with real-time rate tracking and order management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
